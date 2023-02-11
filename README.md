@@ -5,7 +5,7 @@
 [![PHP](https://img.shields.io/badge/Made%20with-PHP-1f425f.svg)](https://www.php.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/muazam-cmd/FilteredAssignment/blob/main/LICENSE)
 [![GitHub followers](https://img.shields.io/github/followers/abdullahmujahidali.svg?style=social&label=Follow)](https://github.com/muazam-cmd)
-[![Twitter Follow](https://img.shields.io/twitter/follow/abdulladgaf.svg?style=social)](https://twitter.com/Muazam1999)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Muazam1999.svg?style=social)](https://twitter.com/Muazam1999)
 
 ## Description
 
