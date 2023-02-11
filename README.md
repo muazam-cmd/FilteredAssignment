@@ -37,6 +37,6 @@ In conclusion, the run-time filter system is designed and developed using PHP, j
 ### UI
 
 ![MainScreen](images/1.jpeg)
-![Screen2](images/2.jpeg)
 ![Screen3](images/3.jpeg)
+![Screen2](images/2.jpeg)
 ![Screen4](images/4.jpeg)
